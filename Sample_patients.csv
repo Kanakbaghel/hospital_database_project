@@ -1,0 +1,37 @@
+patient_id,patient_name,age,gender,doctor_id,contact_number
+1,"John Doe",30,Male,1,1234567890
+2,"Jane Roe",25,Female,NULL,NULL
+3,"Mike Lee",40,Male,2,9876543210
+4,"Anna Smith",35,Female,3,NULL
+5,"Chris Evans",28,Male,4,9871234567
+6,"Emma Watson",32,Female,5,9812345678
+7,"Robert Downey",45,Male,6,9123456789
+8,"Scarlett Johansson",38,Female,7,9023456781
+9,"Tom Holland",25,Male,8,9321456782
+10,"Benedict Cumberbatch",40,Male,9,9234567893
+11,"Natalie Portman",33,Female,10,9345678901
+12,"Chris Hemsworth",35,Male,11,9356789012
+13,"Mark Ruffalo",42,Male,12,9367890123
+14,"Jeremy Renner",44,Male,13,9378901234
+15,"Tom Hiddleston",38,Male,14,9389012345
+16,"Samuel L. Jackson",65,Male,15,9390123456
+17,"Paul Rudd",51,Male,6,9401234567
+18,"Elizabeth Olsen",35,Female,7,9412345678
+19,"Chadwick Boseman",42,Male,8,9423456789
+20,"Ryan Reynolds",40,Male,9,9434567890
+21,"Gal Gadot",36,Female,10,9445678901
+22,"Henry Cavill",41,Male,1,9456789012
+23,"Ben Affleck",48,Male,2,9467890123
+24,"Jason Momoa",41,Male,3,9478901234
+25,"Zoe Saldana",45,Female,4,9489012345
+26,"Chris Pratt",44,Male,5,9490123456
+27,"Dave Bautista",56,Male,6,9501234567
+28,"Karen Gillan",32,Female,7,9512345678
+29,"Vin Diesel",57,Male,8,9523456789
+30,"Paul Walker",40,Male,9,9534567890
+31,"Michelle Rodriguez",45,Female,10,9545678901
+32,"Dwayne Johnson",52,Male,11,9556789012
+33,"Jared Leto",53,Male,12,9567890123
+34,"Margot Robbie",34,Female,13,9578901234
+35,"Will Smith",55,Male,14,9589012345
+36,"Tommy Lee Jones",78,Male,15,9590123456

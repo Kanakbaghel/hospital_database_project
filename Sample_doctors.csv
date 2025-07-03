@@ -1,0 +1,16 @@
+doctor_id,doctor_name,specialization,experience_years
+1,"Dr. Smith",Cardiology,10
+2,"Dr. Alice",Neurology,NULL
+3,"Dr. John",Pediatrics,5
+4,"Dr. Mary",General,NULL
+5,"Dr. James",Orthopedics,15
+6,"Dr. Linda",Dermatology,12
+7,"Dr. Brian",ENT,8
+8,"Dr. Susan",Ophthalmology,14
+9,"Dr. Robert",Psychiatry,9
+10,"Dr. Patricia",Dentistry,6
+11,"Dr. William",Rheumatology,7
+12,"Dr. Jennifer",Radiology,11
+13,"Dr. Michael",Oncology,20
+14,"Dr. Sarah",Surgery,13
+15,"Dr. Joshua",Anesthesiology,17
