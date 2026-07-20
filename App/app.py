@@ -17,7 +17,7 @@ import joblib
 import pandas as pd
 import streamlit as st
 
-from data_utils import load_clean_master
+from App.data_utils import load_clean_master
 
 st.set_page_config(page_title="Hospital Project", page_icon="🏥", layout="wide")
 
