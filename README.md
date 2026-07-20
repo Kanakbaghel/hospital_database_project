@@ -7,7 +7,7 @@
 <h1 align="center">🏥 Hospital Management System – SQL Mini Project</h1>
 <p align="center"><em>Graded assignment for the Data Science &amp; Business Analytics Program by IIT Guwahati</em></p>
 
-[LIVE DEMO](https://hospitaldatabaseproject-apfdzf6saonvermwlf2jko.streamlit.app/) Here, you got the deploymet of the project!
+[LIVE DEMO](https://hospitaldatabaseproject-kanak.streamlit.app/) Here, you got the deploymet of the project!
        Please check it out
 
 ---
